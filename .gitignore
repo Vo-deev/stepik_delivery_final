@@ -1,0 +1,14 @@
+# IDE settings
+.vscode/
+.idea/
+
+# Modules
+venv/
+
+# Data files
+*.db
+*.json
+*.csv
+
+# Cache
+__pycache__/
